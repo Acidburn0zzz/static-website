@@ -41,7 +41,7 @@
     "consola": "^2.14.0",
     "copyfiles": "^2.3.0",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "fontmin": "^0.9.8",
     "glob-to-regexp": "^0.4.1",
     "imagemin": "^7.0.1",
